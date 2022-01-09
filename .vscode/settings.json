@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "toml.h": "c",
+    "*.editorconfig": "c"
+  }
+}
